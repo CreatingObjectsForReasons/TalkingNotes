@@ -9,4 +9,4 @@ Tech stack is
 
 ##### Since its open source feel free to contribute use as inspiration or fork your own version!
 
-###### Built by Indigo from Indigo Tech Tutorials and Matthew!
+###### 🛠️ Built by Indigo from Indigo Tech Tutorials and Matthew! 🎉
